@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "975022589984",
+    "firebase_url": "https://yoga-course-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yoga-course-app",
+    "storage_bucket": "yoga-course-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975022589984:android:d00e102c6f6e0e6f911445",
+        "android_client_info": {
+          "package_name": "com.example.yogaappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZFJbjx3opECLMgo4GpteVRJXBHQDrM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

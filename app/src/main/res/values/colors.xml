@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_gray">#EFEFEF</color>
+    <color name="upload_button_blue">#3B82F6</color>
+    <color name="sync_button_teal">#14B8A6</color>
+    <color name="add_course_green">#10B981</color>
+    <color name="search_button_blue">#1D4ED8</color>
+    <color name="manage_backups_purple">#7C3AED</color>
+    <color name="back_button_gray">#6B7280</color>
+    <color name="create_backup_orange">#F97316</color>
+    <color name="restore_data_green">#10B981</color>
+    <color name="delete_button_red">#EF4444</color>
+    <color name="cloud_delete_button_orange_red">#FF5722</color>
+    <color name="edit_button_blue_gray">#204759</color>
+    <color name="cloud_status_light_blue">#3BAFDA</color>
+    <color name="create_class_green">#4CAF50</color>
+    <color name="cancel_button_soft_gray">#B0BEC5</color>
+    <color name="save_button_medium_sea_green">#3CB371</color>
+    <color name="confirm_button_forest_green">#228B22</color>
+    <color name="view_detail_button_royal_blue">#4169E1</color>
+</resources>
